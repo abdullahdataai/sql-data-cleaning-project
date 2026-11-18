@@ -46,6 +46,15 @@ This project documents a SQL-based workflow for cleaning order data. The existin
 - Document before/after examples with verified counts.
 - Give screenshots descriptive filenames.
 
+
+## Screenshots from the data-cleaning workflow
+
+![SQL cleaning screenshot 1](Screenshot%202026-05-30%20144820.png)
+
+![SQL cleaning screenshot 2](Screenshot%202026-05-30%20144928.png)
+
+![SQL cleaning screenshot 3](Screenshot%202026-05-30%20144957.png)
+
 ## Author
 
 [abdullahdataai](https://github.com/abdullahdataai)
